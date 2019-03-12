@@ -1,0 +1,2 @@
+Now the output is redirected!
+c=nullfoo
